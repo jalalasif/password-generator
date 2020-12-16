@@ -12,3 +12,6 @@ Here are some screenshots displaying the ostentatious, glamorous, dazzlingly sty
 <hr>
 
 ![Screenshot 1](scr2.png)
+
+<h3> And now for a completely useless fact. Because why not.</h3>
+<p>The "Hawaiian Pizza" was invented (or rather, arranged) by a Greek-Canadian man. Yeah, real prouda' you, sweetheart!</p>
