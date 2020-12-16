@@ -39,4 +39,4 @@ for i in range(nr_numbers):
 # Combine into a shuffled password
 random.shuffle(pass_list)
 password = "".join(str(x) for x in pass_list)
-print(f"Your password is: {password}")
+print(f"\nYour password is: {password}")
