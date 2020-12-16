@@ -7,6 +7,8 @@ Anyway, this program will seek to address that concern. I will update this proje
 
 Here are some screenshots displaying the ostentatious, glamorous, dazzlingly stylish simplicity of this program.....</p>
 
+<hr>
+
 ![Screenshot 1](scr1.png)
 
 <hr>
